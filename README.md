@@ -8,11 +8,11 @@ Immunology is the study of our protection from foreign macromolecules or invadin
 
 ### Innate or non-specific immunity
 The innate immune system is our first line of defense against invading organisms. It comes in two flavors, anatomical and humoral barriers to infection:
-- Anatomical barriers:
+- Anatomical barriers (physical):
   - Skin: The epithelial surfaces form a physical barrier nearly impermeable to most infectious agents. Desquamation (skin peeling) also helps remove adhered bacteria and other infectious agents.
   - Tears, saliva, sweat: Liquid flushing helps prevent infection of the eyes and mouth. Contain enzymes and anti-microbial peptides that inhibit bacterial growth.
   - Mucus: Lining of the respiratory and gastrointestinal tract helps protect the lungs and digestive systems from infection
-- Humoral barriers:
+- Humoral barriers (immunity mediated by macromolecules in the humors, i.e. body fluids):
   - Complement system: Major humoral non-specific defense mechanism. Increased vascular permeability, recruitment of phagocytic cells, and lysis and opsonization (targeting for destruction) of bacteria.
   - Coagulation system: Blood clotting in case of physical damage to the area.
   - Lactoferrin and transferrin: By binding iron, an essential nutrient for bacteria, these proteins limit bacterial growth.
