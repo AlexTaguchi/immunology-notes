@@ -32,3 +32,27 @@ The innate immune system is our first line of defense against invading organisms
 | TNF-alpha	| Antiviral, phagocyte activation |
 | Lysozyme	| Peptidoglycan hydrolysis |
 | Fibronectin	| Opsonization and phagocytosis |
+
+### Immunoglobulin (Antibody) Hierarchy
+
+Immunoglobulins are first organized into one of five *classes* (based on differences in the constant region of the heavy chain):
+- IgG (γ):
+  - 1st most common serum Ig (75%)
+  - Monomer
+  - Most versatile Ig capable of carrying out all of the functions of immunoglobulin molecules
+- IgA (α):
+  - 2nd most common serum Ig
+  - Monomer in serum, dimer in secretions
+  - Major class of Ig in secretions - tears, saliva, colostrum, mucus
+- IgM (μ):
+  - 3rd most common serum Ig
+  - Normally a pentamer, but can also exist as a monomer
+  - Good at clumping microorganisms together for eventual elimination from the body
+- IgD (δ):
+  - 4th most common serum Ig
+  - Monomer
+  - It's role in serum uncertain
+- IgE (ε):
+  - Least common serum Ig
+  - Monomer with extra constant region domain
+  - Binds very tightly to Fc receptors and is involved in allergic reactions
