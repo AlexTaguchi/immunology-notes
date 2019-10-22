@@ -33,26 +33,53 @@ The innate immune system is our first line of defense against invading organisms
 | Lysozyme	| Peptidoglycan hydrolysis |
 | Fibronectin	| Opsonization and phagocytosis |
 
-### Immunoglobulin (Antibody) Hierarchy
+### Human Immunoglobulin (Antibody) Hierarchy
 
-Immunoglobulins are first organized into one of five *classes* (based on differences in the constant region of the heavy chain):
+**[1]** Immunoglobulin *Classes*/*Isotypes* (heavy constant region sequence classifications):
 - IgG (γ):
-  - 1st most common serum Ig (75%)
+  - 70-85% of Ig in serum
   - Monomer
   - Most versatile Ig capable of carrying out all of the functions of immunoglobulin molecules
+  - *Subclasses*/*Subtypes* (smaller differences in heavy constant region sequences):
+    - IgG1 - γ1 heavy chains
+    - IgG2 - γ2 heavy chains
+    - IgG3 - γ3 heavy chains
+    - IgG4 - γ4 heavy chains
 - IgA (α):
-  - 2nd most common serum Ig
+  - 5-15% of Ig in serum
   - Monomer in serum, dimer in secretions
   - Major class of Ig in secretions - tears, saliva, colostrum, mucus
+  - *Subclasses*/*Subtypes* (smaller differences in heavy constant region sequences):
+    - IgA1 - α1 heavy chains
+    - IgA2 - α2 heavy chains
 - IgM (μ):
-  - 3rd most common serum Ig
+  - 5-10% of Ig in serum
   - Normally a pentamer, but can also exist as a monomer
   - Good at clumping microorganisms together for eventual elimination from the body
 - IgD (δ):
-  - 4th most common serum Ig
+  - <1% of Ig in serum
   - Monomer
   - It's role in serum uncertain
 - IgE (ε):
-  - Least common serum Ig
+  - ~0% of Ig in serum
   - Monomer with extra constant region domain
   - Binds very tightly to Fc receptors and is involved in allergic reactions
+
+**[2]** Immunoglobulin *Types* (light constant region sequence classifications):
+- Kappa (κ) light chain (~2/3 of Ig in serum)
+- Lambda (λ) light chain (~1/3 of Ig in serum)
+  - *Subtypes*: λ<sub>1</sub>, λ<sub>2</sub>, λ<sub>3</sub>, λ<sub>4</sub>
+
+**[3]** IMGT *Groups* (V(D)J genes of heavy and light chains, further divided into *Subgroups* of genes sharing at least 75% identity at the nucleotide level)
+- Heavy chain (VDJ):
+  - V-genes (*Subgroups*: IGHV1-IGHV8)
+  - D-genes (*Subgroups*: IGHD1-IGHD7)
+  - J-genes (*Subgroups*: IGHJ1-IGHJ6)
+- Light chain (VJ):
+  - V-genes (*Subgroups*: IGKV1-IGKV7, IGLV1-IGLV9)
+  - J-genes: (*Subgroups*: IGKJ1-IGKJ5, IGLJ1-IGLJ7)
+
+**[4]** IMGT *Genes* and *Alleles*
+- *Genes*: DNA sequence that can be potentially transcribed and/or translated
+- *Alleles*: Polymorphic mutant variants of a *Gene*, with *01 designated as the reference sequence
+- Full nomenclature: IG<*Chain*><*Group*><*Subgroup*>-<*Gene*>*<*Alleles*>
