@@ -6,7 +6,7 @@ Notes on how the human immune system works
 - *https://www.youtube.com/channel/UCFAQwnv2kGxl_2BOrI6790A*
 
 ### Introduction
-Immunology is the study of our protection from foreign macromolecules or invading organisms and our responses to them. These invaders include viruses, bacteria, protozoa or even larger parasites. In addition, we develop immune responses against our own proteins (and other molecules) in autoimmunity and against our own aberrant cells in tumor immunity. The main function and challenge of the immune system is properly discriminating between what is self and what is foreign.
+Immunology is the study of our protection from foreign macromolecules or invading organisms and our responses to them. These invaders include viruses, bacteria, protozoa or even larger parasites. In addition, we can develop immune responses against our own proteins/molecules in autoimmunity and against our own aberrant cells in tumor immunity. The main function and challenge of the immune system is properly discriminating between what is self and what is foreign.
 
 ### Innate/Non-Specific Immunity
 The innate immune system forms the first (anatomical) and second (humoral) lines of defense against invading organisms:
@@ -32,27 +32,27 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
     - T lymphocytes (T-cells)
     - Antigen presenting cells (APCs)
 
-### Cells of the Immune System
-- Leucocytes (white blood cells/immune cells arising from bone marrow, found in blood and lymph):
-  - Granulocytes (irregularly shaped nuclei with 2-5 lobes):
-    - Basophils: Roles in inflammation and allergic response
-    - Eosinophils: Motile phagocytic cells capable of leaving the bloodstream and going into tissue to fight protozoan and helminthic parasites
-    - Neutrophils: Most abundant leukocytes in blood (50-70%), also called polymorphonuclear (PMN) neutrophils. Active phagocytic cells, the first cells to migrate to the site of infection, but do not provide prolonged defense as they last only a few days
-  - Agranulocytes (one-lobed nucleus, mononuclear leucocytes):
-    - Monocytes: Largest type of leucocytes. Circulate in blood, and migrate into tissues where they differentiate into macrophages that become resident cells in the tissues (long-lived large white blood cells that engulf microbes)
-      - Free macrophages: Motile and gather at site of infection/inflammation
-      - Fixed macrophages: Resident at specific tissues
-    - Lymphocytes: Main type of cells found in lymph
-      - Large: Natural Killer Lymphocyte (NK cell): Attack and kill infected or cancerous body cells by secreting toxins onto their surfaces
-      - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
-        - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
-        - T cells: Display T cell receptors (TCR), mature in the thymus
-  - Mast cells: Similar to Basphils in appearance and function. Found in tissue with a role inflammation and allergic response.
-  - Dendritic cells: Star shaped phagocytes in skin and mucous membranes that perform antigen capture and antigen presentation in adaptive immunity
-
-B-cell receptors and antibodies are both types of immunoglobulins. The difference is one is membrane bound and the other is secreted
+### Leucocytes
+White blood cells/immune cells arising from bone marrow, found in blood and lymph):
+- Granulocytes (irregularly shaped nuclei with 2-5 lobes):
+  - Basophils: Roles in inflammation and allergic response
+  - Eosinophils: Motile phagocytic cells capable of leaving the bloodstream and going into tissue to fight protozoan and helminthic parasites
+  - Neutrophils: Most abundant leukocytes in blood (50-70%), also called polymorphonuclear (PMN) neutrophils. Active phagocytic cells, the first cells to migrate to the site of infection, but do not provide prolonged defense as they last only a few days
+- Agranulocytes (one-lobed nucleus, mononuclear leucocytes):
+  - Monocytes: Largest type of leucocytes. Circulate in blood, and migrate into tissues where they differentiate into macrophages that become resident cells in the tissues (long-lived large white blood cells that engulf microbes)
+    - Free macrophages: Motile and gather at site of infection/inflammation
+    - Fixed macrophages: Resident at specific tissues
+  - Lymphocytes: Main type of cells found in lymph
+    - Large: Natural Killer Lymphocyte (NK cell): Attack and kill infected or cancerous body cells by secreting toxins onto their surfaces
+    - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
+      - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
+      - T cells: Display T cell receptors (TCR), mature in the thymus
+- Mast cells: Similar to Basphils in appearance and function. Foundin tissue with a role inflammation and allergic response.
+- Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
 
 ### Human Immunoglobulin Hierarchy
+
+B-cell receptors and antibodies are both types of immunoglobulins. The difference is one is membrane bound and the other is secreted
 
 **[1]** Immunoglobulin *Classes*/*Isotypes* (heavy constant region sequence classifications):
 - IgG (γ):
@@ -104,8 +104,7 @@ B-cell receptors and antibodies are both types of immunoglobulins. The differenc
 - Full nomenclature: IG<*Chain*><*Group*><*Subgroup*>-<*Gene*>*<*Alleles*>
 
 ### Cytokines
-Protein or glycoproteins (<30 kDa) that may be soluble or membrane bound
-Small soluble molecules that act as intercellular mediators. They bind to cytokine receptors on the surface of other receptors
+Protein or glycoproteins (<30 kDa) that may be soluble or membrane bound. Small soluble molecules that act as intercellular mediators. They bind to cytokine receptors on the surface of other receptors
 - Autocrine signaling: 
 - Short half-life (mostly act over a short-distance)
 - Types of cytokines:
