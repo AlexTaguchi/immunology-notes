@@ -4,7 +4,7 @@ Notes on how the human immune system works
 *References:*
 - *https://www.microbiologybook.org/*
 - *https://www.youtube.com/channel/UCFAQwnv2kGxl_2BOrI6790A*
-- *https://alison.com/topic/learn/77899/introduction-to-immunology-learning-outcomes*
+- *https://www.khanacademy.org/science/biology/human-biology/circulatory-pulmonary/a/components-of-the-blood*
 
 ### Introduction
 Immunology is the study of our protection from foreign macromolecules or invading organisms and our responses to them. These invaders include viruses, bacteria, protozoa or even larger parasites. In addition, we can develop immune responses against our own proteins/molecules in autoimmunity and against our own aberrant cells in tumor immunity. The main function and challenge of the immune system is properly discriminating between what is self and what is foreign.
@@ -12,11 +12,13 @@ Immunology is the study of our protection from foreign macromolecules or invadin
 ### Innate/Non-Specific Immunity
 The innate immune system forms the first (anatomical) and second (humoral) lines of defense against invading organisms:
 - **1<sup>st</sup>** line of defense - Anatomical barriers:
+
   - Skin: The epithelial surfaces form a physical barrier nearly impermeable to most infectious agents. Desquamation (skin peeling) also helps remove adhered bacteria and other infectious agents.
   - Tears, saliva, sweat: Liquid flushing helps prevent infection of the eyes and mouth. Contain enzymes and anti-microbial peptides that inhibit bacterial growth.
   - Mucus: Lining of the respiratory and gastrointestinal tract helps protect the lungs and digestive systems from infection
 
 - **2<sup>nd</sup>** line of defense - Humoral (body fluid) barriers:
+
   - Complement system: Group of >20 plasma proteins that enhance/complement the ability of antibodies and phagocytic cells to clear pathogens. Non-specific defense functions include:
     - Opsonization: Flagging antigens for immune response
     - Inflammation: Attracting macrophages and neutrophils
@@ -30,6 +32,7 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
 
 ### Acquired/Adaptive/Specific Immunity
 - **3<sup>rd</sup>** line of defense:
+
   - Immunological memory allows for quicker and more efficient defense against pathogens a second time. It is slower than the innate immune response, but long-lasting.
   - After digesting a pathogen, phagocytes display its antigen composition.
   - Main components:
@@ -48,8 +51,13 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
   - CO<sub>2</sub> is transported to the lungs to be released.
 
 - Platelets (Thrombocytes) – <1%
+  - Cell fragments broken off of megakaryocytes
+  - Produces fibrin clots that prevent further blood loss at a wound site.
 
 - White Blood Cells (Leukocytes) – <1%
+
+  <img src="figures/leukocytes.png" alt="leukocytes" height="200">
+
   - Granulocytes (irregularly shaped nuclei with 2-5 lobes):
     - Basophils: Roles in inflammation and allergic response
     - Eosinophils: Motile phagocytic cells capable of leaving the bloodstream and going into tissue to fight protozoan and helminthic parasites
@@ -63,8 +71,14 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
       - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
         - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
         - T cells: Display T cell receptors (TCR), mature in the thymus
-  - Mast cells: Similar to Basphils in appearance and function. Foundin tissue with a role inflammation and allergic response.
-  - Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
+  
+- Red blood cells, white blood cells, and platelet-producing cells are all descended from a common precursor: a hematopoietic stem cell:
+
+  <img src="figures/hematopoietic_maturation.png" alt="hematopoietic_maturation" height="400">
+
+### Other cells
+- Mast cells: Similar to Basphils in appearance and function. Found in tissue with a role inflammation and allergic response.
+- Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
 
 ### Human Immunoglobulin Hierarchy
 
