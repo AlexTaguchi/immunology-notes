@@ -4,6 +4,7 @@ Notes on how the human immune system works
 *References:*
 - *https://www.microbiologybook.org/*
 - *https://www.youtube.com/channel/UCFAQwnv2kGxl_2BOrI6790A*
+- *https://alison.com/topic/learn/77899/introduction-to-immunology-learning-outcomes*
 
 ### Introduction
 Immunology is the study of our protection from foreign macromolecules or invading organisms and our responses to them. These invaders include viruses, bacteria, protozoa or even larger parasites. In addition, we can develop immune responses against our own proteins/molecules in autoimmunity and against our own aberrant cells in tumor immunity. The main function and challenge of the immune system is properly discriminating between what is self and what is foreign.
@@ -14,41 +15,56 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
   - Skin: The epithelial surfaces form a physical barrier nearly impermeable to most infectious agents. Desquamation (skin peeling) also helps remove adhered bacteria and other infectious agents.
   - Tears, saliva, sweat: Liquid flushing helps prevent infection of the eyes and mouth. Contain enzymes and anti-microbial peptides that inhibit bacterial growth.
   - Mucus: Lining of the respiratory and gastrointestinal tract helps protect the lungs and digestive systems from infection
+
 - **2<sup>nd</sup>** line of defense - Humoral (body fluid) barriers:
-  - Complement system: Major humoral non-specific defense mechanism. Increased vascular permeability, recruitment of phagocytic cells, and lysis and opsonization (targeting for destruction) of bacteria. It is a group of proteins in blood plasma that results in lysis of microbial or foreign cells through a cascade of events.
+  - Complement system: Group of >20 plasma proteins that enhance/complement the ability of antibodies and phagocytic cells to clear pathogens. Non-specific defense functions include:
+    - Opsonization: Flagging antigens for immune response
+    - Inflammation: Attracting macrophages and neutrophils
+    - Membrane attack: Rupturing cell walls of bacteria
+  - Inflammation: White blood cell mediated increase in blood flow to the area of injury or infection, causing redness and warmth.
   - Coagulation: Blood clotting in case of physical damage to the area.
-  - Inflammation: White blood cell mediated increase in blood flow to the area of injury or infection, causing redness and warmth. Leak of fluids into tissues may result in swelling.
   - Lactoferrin and transferrin: Bind iron, an essential nutrient for bacteria, to limit bacterial growth.
   - Interferons: Limit virus replication in cells.
-  - Lysozyme: Breaks down the cell wall of bacteria.
+  - Lysozyme: Breaks down cell walls of bacteria.
   - Interleukin-1 (Il-1): Induces fever and the production of acute phase proteins, some of which are antimicrobial because they can opsonize bacteria.
 
 ### Acquired/Adaptive/Specific Immunity
 - **3<sup>rd</sup>** line of defense:
-  - Immunological memory allows the organism to remember the previous encounter with the pathogen for a quicker and more   efficient defense against the pathogen a second time
-  - Slower than innate immune response, but long-lasting
+  - Immunological memory allows for quicker and more efficient defense against pathogens a second time. It is slower than the innate immune response, but long-lasting.
+  - After digesting a pathogen, phagocytes display its antigen composition.
   - Main components:
-    - B lymphocytes (B-cells)
-    - T lymphocytes (T-cells)
+    - B lymphocytes (B-cells, produced in bone marrow)
+    - T lymphocytes (T-cells, also produced in bone marrow, but matured in Thymus)
     - Antigen presenting cells (APCs)
 
-### Leucocytes
-White blood cells/immune cells arising from bone marrow, found in blood and lymph):
-- Granulocytes (irregularly shaped nuclei with 2-5 lobes):
-  - Basophils: Roles in inflammation and allergic response
-  - Eosinophils: Motile phagocytic cells capable of leaving the bloodstream and going into tissue to fight protozoan and helminthic parasites
-  - Neutrophils: Most abundant leukocytes in blood (50-70%), also called polymorphonuclear (PMN) neutrophils. Active phagocytic cells, the first cells to migrate to the site of infection, but do not provide prolonged defense as they last only a few days
-- Agranulocytes (one-lobed nucleus, mononuclear leucocytes):
-  - Monocytes: Largest type of leucocytes. Circulate in blood, and migrate into tissues where they differentiate into macrophages that become resident cells in the tissues (long-lived large white blood cells that engulf microbes)
-    - Free macrophages: Motile and gather at site of infection/inflammation
-    - Fixed macrophages: Resident at specific tissues
-  - Lymphocytes: Main type of cells found in lymph
-    - Large: Natural Killer Lymphocyte (NK cell): Attack and kill infected or cancerous body cells by secreting toxins onto their surfaces
-    - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
-      - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
-      - T cells: Display T cell receptors (TCR), mature in the thymus
-- Mast cells: Similar to Basphils in appearance and function. Foundin tissue with a role inflammation and allergic response.
-- Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
+### Components of Blood
+- Plasma – 55%
+  - 90% water, with the remaining 10% percent made up of ions, nutrients, hormones, and proteins.
+  - Albumin (main protein in human plasma) regulates osmotic pressure in blood vessels by displacing water.
+  - Serum is plasma stripped of its clotting factors.
+
+- Red Blood Cells (Erythrocytes) – 45%
+  - O<sub>2</sub> is transported from the lungs to the surrounding tissue.
+  - CO<sub>2</sub> is transported to the lungs to be released.
+
+- Platelets (Thrombocytes) – <1%
+
+- White Blood Cells (Leukocytes) – <1%
+  - Granulocytes (irregularly shaped nuclei with 2-5 lobes):
+    - Basophils: Roles in inflammation and allergic response
+    - Eosinophils: Motile phagocytic cells capable of leaving the bloodstream and going into tissue to fight protozoan and helminthic parasites
+    - Neutrophils: Most abundant leukocytes in blood (50-70%), also called polymorphonuclear (PMN) neutrophils. Active phagocytic cells, the first cells to migrate to the site of infection, but do not provide prolonged defense as they last only a few days
+  - Agranulocytes (one-lobed nucleus, mononuclear leucocytes):
+    - Monocytes: Largest type of leucocytes. Circulate in blood, and migrate into tissues where they differentiate into macrophages that become resident cells in the tissues (long-lived large white blood cells that engulf microbes)
+      - Free macrophages: Motile and gather at site of infection/inflammation
+      - Fixed macrophages: Resident at specific tissues
+    - Lymphocytes: Main type of cells found in lymph
+      - Large: Natural Killer Lymphocyte (NK cell): Attack and kill infected or cancerous body cells by secreting toxins onto their surfaces
+      - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
+        - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
+        - T cells: Display T cell receptors (TCR), mature in the thymus
+  - Mast cells: Similar to Basphils in appearance and function. Foundin tissue with a role inflammation and allergic response.
+  - Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
 
 ### Human Immunoglobulin Hierarchy
 
