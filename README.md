@@ -41,10 +41,10 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
     - MHC class II: Expressed by professional antigen-presenting cells (dendritic cells, macrophages, B-cells) for displaying captured antigens to the specific immune system.
   - T lymphocytes (T-cells, mature in the thymus)
     - Cytotoxic T-cells (CD8+ T-cell): Kills infected/cancerous cells by binding their MHC-I presenting antigens with its T-cell receptor. CD8 confers the ability to bind MHC-I.
-    - Helper T-cells (CD4+ T-cell): T-cell receptor binds foreign antigens, triggering a cytokine alarm signal recruiting other immune cells. CD4 confers the ability to bind MHC-II, important for activating B-cells.
+    - Helper T-cells (CD4+ T-cell): T-cell receptor binds foreign antigens (or those presented by MHC-II), triggering a cytokine alarm signal recruiting other immune cells. CD4 confers the ability to bind MHC-II, important for activating B-cells.
   - B lymphocytes (B-cells, mature in the bone marrow):
     - Each B-cell can only display one of ~10<sup>10</sup> possible antibody combinations.
-    - If the B-cell antibodies bind an antigen, it will be consumed by phagocytosis and its antigen content displayed by MHC-II. When the MHC-II-antigen complex is activated by a T-helper cell receptor specific for the antigen, the B-cell clones itself and differentiates:
+    - If the B-cell receptor (antibody) binds an antigen, it will be consumed by phagocytosis and its antigen content displayed by MHC-II. When the MHC-II-antigen complex is activated by a T-helper cell receptor specific for the antigen, the B-cell clones itself and differentiates:
       - Memory B-cell: Can survive for decades for an accelerated antibody-mediated immune response in the case of reinfection (secondary immune response).
       - Effector B-cell (Plasma cell): Factory for producing antibodies to opsonize pathogens.
 
@@ -76,17 +76,11 @@ The innate immune system forms the first (anatomical) and second (humoral) lines
       - Fixed macrophages: Resident at specific tissues
     - Lymphocytes: Main type of cells found in lymph
       - Large: Natural Killer Lymphocyte (NK cell): Attack and kill infected or cancerous body cells by secreting toxins onto their surfaces
-      - Small (smallest leucocytes): B and T Lymphocytes (B and T cells)
-        - B cells: Display B cell receptors (BCR), mature in bone marrow and circulate in blood, mature activated B cell is a plasma cell which produces and secretes antibodies
-        - T cells: Display T cell receptors (TCR), mature in the thymus
+      - Small (smallest leucocytes): B and T Lymphocytes (B-cells and T-cells)
   
 - Hematopoietic stem cells: Precursor stem cell that matures into red blood cells, white blood cells, and platelet-producing cells (matured cell types are given the "cyte" suffix):
 
   <img src="figures/hematopoietic_maturation.png" alt="hematopoietic_maturation" height="400">
-
-### Other cells
-- Mast cells: Similar to Basphils in appearance and function. Found in tissue with a role inflammation and allergic response.
-- Dendritic cells: Star shaped phagocytes in skin and mucousmembranes that perform antigen capture and antigen presentation in adaptive immunity
 
 ### Human Immunoglobulin Hierarchy
 
@@ -142,7 +136,7 @@ B-cell receptors and antibodies are both types of immunoglobulins. The differenc
 - Full nomenclature: IG<*Chain*><*Group*><*Subgroup*>-<*Gene*>*<*Alleles*>
 
 ### Cytokines
-Protein or glycoproteins (<30 kDa) that may be soluble or membrane bound. Small soluble molecules that act as intercellular mediators. They bind to cytokine receptors on the surface of other receptors
+Proteins or glycoproteins (<30 kDa) that may be soluble or membrane bound. Small soluble molecules that act as intercellular mediators. They bind to cytokine receptors on the surface of other receptors
 - Autocrine signaling: 
 - Short half-life (mostly act over a short-distance)
 - Types of cytokines:
@@ -154,16 +148,3 @@ Protein or glycoproteins (<30 kDa) that may be soluble or membrane bound. Small 
     - Type II: IFN-γ (increases phagocytosis by macrophages)
   - Colony-Stimulating Factors (CSF): Essential for the growth and differentiation of immature leukocytes in the bone marrow (red blood cells, monocytes, granulocytes, and lymphocytes). It ensures the body is supplied with sufficient supplies of white blood cells of all types
   - Chemokines: Act as chemo-attractants and signal leucocytes to move. For example, they may be released at the site of infection to signal neutrophils to come and become the principle phagocytic cell at the site of infection.
-
-### Cell types and roles
-
-| Cell | Role |
-| --- | --- |
-| Phagocytic cells | Phagocytosis and intracellular killing |
-| NK cells and K-cell | Direct and antibody dependent cytolysis |
-| LAK | IL2-activated cytolysis|
-| Lactoferrin and Transferrin	| Iron binding |
-| Interferons	| Antiviral proteins |
-| TNF-alpha	| Antiviral, phagocyte activation |
-| Lysozyme	| Peptidoglycan hydrolysis |
-| Fibronectin	| Opsonization and phagocytosis |
