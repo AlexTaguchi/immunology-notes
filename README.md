@@ -147,4 +147,4 @@ Proteins or glycoproteins (<30 kDa) that may be soluble or membrane bound. Small
     - Type I: IFN-α, IFN-β (produced in response to viral infection)
     - Type II: IFN-γ (increases phagocytosis by macrophages)
   - Colony-Stimulating Factors (CSF): Essential for the growth and differentiation of immature leukocytes in the bone marrow (red blood cells, monocytes, granulocytes, and lymphocytes). It ensures the body is supplied with sufficient supplies of white blood cells of all types
-  - Chemokines: Act as chemo-attractants and signal leucocytes to move. For example, they may be released at the site of infection to signal neutrophils to come and become the principle phagocytic cell at the site of infection.
+  - Chemokines (*chemo*tactic cyto*kines*): Induce  chemotaxis in nearby responsive cells. For example, they may be released to signal neutrophils to come to the site of infection.
