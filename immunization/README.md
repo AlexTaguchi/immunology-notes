@@ -1,5 +1,5 @@
 # immunization
-Notes on how immunization works
+Notes on how mouse immunizations works
 
 *References:*
 - *https://prosci-services.com/antibody-development-guide/freunds-adjuvant/*
